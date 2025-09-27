@@ -48,7 +48,7 @@ Here’s what I’m currently focused on and working toward:
 
 ## 📫 Contact Me
 - Email: mudeerali151514@gmail.com
-- LinkedIn: Coming Soon
+- LinkedIn:http://linkedin.com/in/mudeeralikhan
   
 ---
 
