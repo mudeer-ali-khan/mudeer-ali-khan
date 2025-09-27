@@ -1,4 +1,4 @@
- # 👋 Hello World! I'm Mudeer Ali Khan
+ #  Hello World! I'm Mudeer Ali Khan
 
 🎓 A Software Engineering Student at Mirpur University (MUST), Pakistan  
 💻 Passionate Front-End Developer  
