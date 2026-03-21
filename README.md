@@ -15,7 +15,6 @@
 - MongoDB, MySQL (Database Design & Queries)  
 - C++, Python, Git & GitHub  
 - C#, OOP Concepts, Networking Basics
--
 - Generative AI Developer   
 
 ---
