@@ -15,7 +15,8 @@
 - MongoDB, MySQL (Database Design & Queries)  
 - C++, Python, Git & GitHub  
 - C#, OOP Concepts, Networking Basics
-- - Generative AI Developer   
+-
+- Generative AI Developer   
 
 ---
 
@@ -23,6 +24,8 @@
 
 - Completed **Intermediate (12th)** in **Computer Science** from *Al Asar Academy*  
 - Currently pursuing **BS Software Engineering** at *Mirpur University of Science & Technology (MUST)*  
+
+---
 
 ### 📘 What I’ve Learned in Software Engineering:
 - Programming Fundamentals (C#)
